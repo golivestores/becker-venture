@@ -1,0 +1,5 @@
+.DS_Store
+download.mp4
+*.pdf
+node_modules/
+.env*
