@@ -1,5 +1,5 @@
-.menu__icon-lvl1--s1-iwx640kct {background-position: center center; background-repeat: no-repeat; background-size: auto; background-attachment: scroll; background-image: url("/becker-venture/g/s3/mosaic/images/widgets/menu-arrow-down.svg"); background-color: rgba(0, 0, 0, 0);}
-.menu__icon-lvl2--s1-ifb1afz1d {background-position: center center; background-repeat: no-repeat; background-size: auto; background-attachment: scroll; background-image: url("/becker-venture/g/s3/mosaic/images/widgets/menu-arrow-right.svg"); background-color: rgba(0, 0, 0, 0);}
+.menu__icon-lvl1--s1-iwx640kct {background-position: center center; background-repeat: no-repeat; background-size: auto; background-attachment: scroll; background-image: url("../../../../../g/s3/mosaic/images/widgets/menu-arrow-down.svg"); background-color: rgba(0, 0, 0, 0);}
+.menu__icon-lvl2--s1-ifb1afz1d {background-position: center center; background-repeat: no-repeat; background-size: auto; background-attachment: scroll; background-image: url("../../../../../g/s3/mosaic/images/widgets/menu-arrow-right.svg"); background-color: rgba(0, 0, 0, 0);}
 .form__field--s2-i28lqpfyx .form__checkbox {display: none;}
 .form__field--s2-i28lqpfyx .form__checkbox-styled {display: block;}
 .form__field--s2-ib552m0r7 .form__checkbox {display: none;}
@@ -431,9 +431,9 @@
 .form__field--u-ib552m0r7.is-error .form__label-text--u-iibs75j01 {color: rgba(252, 58, 30, 1); opacity: 1;}
 .form__field--u-ib552m0r7.is-error .form__checkbox-styled--u-ic6vysmxh {border: 1px solid #FC3A1E;}
 .form__widget-item--u-iwtxosybc {column-gap: 0.8rem;}
-.form__widget-item--u-iwtxosybc:has(:checked) .form__checkbox-styled--u-i2gaimcg0 {background-size: cover, auto; background-image: url("/becker-venture/d/check.svg"), none/*linear-gradient(rgba(43, 187, 220, 1) 0%, rgba(43, 187, 220, 1) 100%)*/; background-repeat: no-repeat; background-position: center center; background-attachment: scroll, scroll; border-top-color: rgba(13, 13, 13, 1); border-left-color: rgba(13, 13, 13, 1); border-right-color: rgba(13, 13, 13, 1); border-bottom-color: rgba(13, 13, 13, 1);}
+.form__widget-item--u-iwtxosybc:has(:checked) .form__checkbox-styled--u-i2gaimcg0 {background-size: cover, auto; background-image: url("../../../../../d/check.svg"), none/*linear-gradient(rgba(43, 187, 220, 1) 0%, rgba(43, 187, 220, 1) 100%)*/; background-repeat: no-repeat; background-position: center center; background-attachment: scroll, scroll; border-top-color: rgba(13, 13, 13, 1); border-left-color: rgba(13, 13, 13, 1); border-right-color: rgba(13, 13, 13, 1); border-bottom-color: rgba(13, 13, 13, 1);}
 .form__widget-item--u-if14nijqh {column-gap: 0.8rem;}
-.form__widget-item--u-if14nijqh:has(:checked) .form__checkbox-styled--u-ic6vysmxh {background-size: cover, auto; background-image: url("/becker-venture/d/check.svg"), none/*linear-gradient(rgba(43, 187, 220, 1) 0%, rgba(43, 187, 220, 1) 100%)*/; background-repeat: no-repeat; background-position: center center; background-attachment: scroll, scroll; border-top-color: rgba(13, 13, 13, 1); border-left-color: rgba(13, 13, 13, 1); border-right-color: rgba(13, 13, 13, 1); border-bottom-color: rgba(13, 13, 13, 1);}
+.form__widget-item--u-if14nijqh:has(:checked) .form__checkbox-styled--u-ic6vysmxh {background-size: cover, auto; background-image: url("../../../../../d/check.svg"), none/*linear-gradient(rgba(43, 187, 220, 1) 0%, rgba(43, 187, 220, 1) 100%)*/; background-repeat: no-repeat; background-position: center center; background-attachment: scroll, scroll; border-top-color: rgba(13, 13, 13, 1); border-left-color: rgba(13, 13, 13, 1); border-right-color: rgba(13, 13, 13, 1); border-bottom-color: rgba(13, 13, 13, 1);}
 .form__label-text--u-i19ikdtwq {margin-left: 0px;}
 .form__label-text--u-iibs75j01 {margin-left: 0px;}
 .form__checkbox-styled--u-i2gaimcg0 {width: 1.3rem; height: 1.3rem; border-top-color: rgba(13, 13, 13, 1); border-left-color: rgba(13, 13, 13, 1); border-right-color: rgba(13, 13, 13, 1); border-bottom-color: rgba(13, 13, 13, 1); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px;}
@@ -692,11 +692,11 @@
 .form__state-success--u-iu8uutfxr {}
 .form__widget-group--u-ixde3zwb2 {margin-top: 0px;}
 .form__widget-item--u-iyn7izvpq {column-gap: 0.8rem;}
-.form__widget-item--u-iyn7izvpq:has(:checked) .form__checkbox-styled--u-i7ss4yoqr {background-size: cover, auto; background-image: url("/becker-venture/d/check.svg"), none/*linear-gradient(rgba(43, 187, 220, 1) 0%, rgba(43, 187, 220, 1) 100%)*/; background-repeat: no-repeat; background-position: center center; background-attachment: scroll, scroll; border-top-color: rgba(13, 13, 13, 1); border-left-color: rgba(13, 13, 13, 1); border-right-color: rgba(13, 13, 13, 1); border-bottom-color: rgba(13, 13, 13, 1);}
+.form__widget-item--u-iyn7izvpq:has(:checked) .form__checkbox-styled--u-i7ss4yoqr {background-size: cover, auto; background-image: url("../../../../../d/check.svg"), none/*linear-gradient(rgba(43, 187, 220, 1) 0%, rgba(43, 187, 220, 1) 100%)*/; background-repeat: no-repeat; background-position: center center; background-attachment: scroll, scroll; border-top-color: rgba(13, 13, 13, 1); border-left-color: rgba(13, 13, 13, 1); border-right-color: rgba(13, 13, 13, 1); border-bottom-color: rgba(13, 13, 13, 1);}
 .image--u-ixzlwegzo {width: 4.56rem; height: auto; margin-left: 2rem; margin-right: 5rem;}
 .link--u-is5dq0kpf {color: rgba(13, 13, 13, 1); text-decoration: none;}
 .pop-up__content--u-ihr11idy3 {border-top-left-radius: 0.5rem; border-top-right-radius: 0.5rem; border-bottom-left-radius: 0.5rem; border-bottom-right-radius: 0.5rem; background-image: linear-gradient(rgba(250, 250, 250, 1) 0%, rgba(250, 250, 250, 1) 100%); min-width: auto; min-height: auto; height: 85vh; padding-left: 2.5rem; padding-right: 2.5rem; padding-top: 12vh; display: flex; flex-direction: column; row-gap: 8rem; width: 100%; border-top-width: 0px; border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-top-style: none; border-left-style: none; border-right-style: none; border-bottom-style: none;}
-.pop-up__inside-close-button--u-izy0k3rca {top: 2.5rem; right: 2.5rem; min-width: auto; min-height: auto; width: 5.5rem; height: 5.5rem; background-image: url("/becker-venture/d/close.svg"); background-size: cover;}
+.pop-up__inside-close-button--u-izy0k3rca {top: 2.5rem; right: 2.5rem; min-width: auto; min-height: auto; width: 5.5rem; height: 5.5rem; background-image: url("../../../../../d/close.svg"); background-size: cover;}
 .submit_button--u-im8g3b41m {margin-top: 0px; background-size: auto; background-image: none/*linear-gradient(rgba(43, 187, 220, 1) 0%, rgba(43, 187, 220, 1) 100%)*/; background-repeat: repeat; background-position: left 0px top 0px; background-attachment: scroll; padding-left: 0px; padding-right: 0px; padding-top: 0px; padding-bottom: 0px;}
 .text--u-i7t598uca {display: none;}
 .text-title--u-iz7fikh0z {display: none;}
@@ -953,8 +953,8 @@
 .section--u-i9pjpzmvn {z-index: 1;}
 .pop-up__content--u-i24d58lfn {background-color: rgb(250, 250, 250); border-top-left-radius: 0.5rem; border-top-right-radius: 0.5rem; border-bottom-left-radius: 0.5rem; border-bottom-right-radius: 0.5rem; padding-top: 10rem; padding-bottom: 6rem; padding-left: 2.5rem; padding-right: 2.5rem; display: flex; flex-direction: column; align-items: flex-start; row-gap: 6rem; min-width: auto; min-height: auto;}
 .pop-up__content--u-ixridpura {background-color: rgb(250, 250, 250); border-top-left-radius: 0.5rem; border-top-right-radius: 0.5rem; border-bottom-left-radius: 0.5rem; border-bottom-right-radius: 0.5rem; padding-top: 10rem; padding-bottom: 6rem; padding-left: 2.5rem; padding-right: 2.5rem; display: flex; flex-direction: column; align-items: flex-start; row-gap: 6rem; min-width: auto; min-height: auto; background-size: auto; background-image: none/*linear-gradient(rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%)*/; background-repeat: repeat; background-position: left 0px top 0px; background-attachment: scroll; border-top-width: 0px; border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-top-style: none; border-left-style: none; border-right-style: none; border-bottom-style: none;}
-.pop-up__inside-close-button--u-i1ikckzon {min-width: auto; min-height: auto; width: 5.5rem; height: 5.5rem; background-image: url("/becker-venture/d/close.svg"); top: 2.5rem; right: 2.5rem; background-size: cover;}
-.pop-up__inside-close-button--u-ix2rq4oh3 {min-width: auto; min-height: auto; width: 5.5rem; height: 5.5rem; background-image: url("/becker-venture/d/close.svg"); top: 2.5rem; right: 2.5rem; background-size: cover;}
+.pop-up__inside-close-button--u-i1ikckzon {min-width: auto; min-height: auto; width: 5.5rem; height: 5.5rem; background-image: url("../../../../../d/close.svg"); top: 2.5rem; right: 2.5rem; background-size: cover;}
+.pop-up__inside-close-button--u-ix2rq4oh3 {min-width: auto; min-height: auto; width: 5.5rem; height: 5.5rem; background-image: url("../../../../../d/close.svg"); top: 2.5rem; right: 2.5rem; background-size: cover;}
 .div--u-i1hufbay5 {width: 10.7rem;}
 .div--u-iy64hjtni {width: 10.7rem;}
 .div--u-i1duwfl2t {width: 10.7rem;}
@@ -1066,11 +1066,11 @@
 .form__state-success--u-ijp55k819 {}
 .form__widget-group--u-ipi9duir3 {margin-top: 0px;}
 .form__widget-item--u-ilszr43h7 {column-gap: 0.8rem;}
-.form__widget-item--u-ilszr43h7:has(:checked) .form__checkbox-styled--u-inmr1ti4n {background-size: cover, auto; background-image: url("/becker-venture/d/check.svg"), none/*linear-gradient(rgba(43, 187, 220, 1) 0%, rgba(43, 187, 220, 1) 100%)*/; background-repeat: no-repeat; background-position: center center; background-attachment: scroll, scroll; border-top-color: rgba(13, 13, 13, 1); border-left-color: rgba(13, 13, 13, 1); border-right-color: rgba(13, 13, 13, 1); border-bottom-color: rgba(13, 13, 13, 1);}
+.form__widget-item--u-ilszr43h7:has(:checked) .form__checkbox-styled--u-inmr1ti4n {background-size: cover, auto; background-image: url("../../../../../d/check.svg"), none/*linear-gradient(rgba(43, 187, 220, 1) 0%, rgba(43, 187, 220, 1) 100%)*/; background-repeat: no-repeat; background-position: center center; background-attachment: scroll, scroll; border-top-color: rgba(13, 13, 13, 1); border-left-color: rgba(13, 13, 13, 1); border-right-color: rgba(13, 13, 13, 1); border-bottom-color: rgba(13, 13, 13, 1);}
 .image--u-is4a4q6xx {width: 4.56rem; height: auto; margin-left: 2rem; margin-right: 5rem;}
 .link--u-i5bhht9i1 {color: rgba(13, 13, 13, 1); text-decoration: none;}
 .pop-up__content--u-irqzkgxhm {border-top-left-radius: 0.5rem; border-top-right-radius: 0.5rem; border-bottom-left-radius: 0.5rem; border-bottom-right-radius: 0.5rem; background-image: linear-gradient(rgba(250, 250, 250, 1) 0%, rgba(250, 250, 250, 1) 100%); min-width: auto; min-height: auto; height: 85vh; padding-left: 2.5rem; padding-right: 2.5rem; padding-top: 12vh; display: flex; flex-direction: column; row-gap: 8rem; width: 100%; border-top-width: 0px; border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-top-style: none; border-left-style: none; border-right-style: none; border-bottom-style: none;}
-.pop-up__inside-close-button--u-idau8dtw7 {top: 2.5rem; right: 2.5rem; min-width: auto; min-height: auto; width: 5.5rem; height: 5.5rem; background-image: url("/becker-venture/d/close.svg"); background-size: cover;}
+.pop-up__inside-close-button--u-idau8dtw7 {top: 2.5rem; right: 2.5rem; min-width: auto; min-height: auto; width: 5.5rem; height: 5.5rem; background-image: url("../../../../../d/close.svg"); background-size: cover;}
 .submit_button--u-ijt3i0mxo {margin-top: 0px; background-size: auto; background-image: none/*linear-gradient(rgba(43, 187, 220, 1) 0%, rgba(43, 187, 220, 1) 100%)*/; background-repeat: repeat; background-position: left 0px top 0px; background-attachment: scroll; padding-left: 0px; padding-right: 0px; padding-top: 0px; padding-bottom: 0px;}
 .text--u-i1sx32byi {display: none;}
 .text-title--u-izbp4p55a {display: none;}
@@ -1867,7 +1867,7 @@
 .price_tag {width: 39.8rem; height: 39.8rem; display: flex; align-items: center; justify-content: center; padding-left: 2rem; padding-right: 2rem;}
 .price_tag-text {display: flex; align-items: center; justify-content: space-between;}
 .letters {display: flex; row-gap: 0.5rem; column-gap: 1rem; flex-wrap: wrap; justify-content: flex-end;}
-.circle_big {position: absolute; top: 0px; bottom: 0px; left: 0px; right: 0px; border-top-left-radius: 100%; border-top-right-radius: 100%; border-bottom-left-radius: 100%; border-bottom-right-radius: 100%; background-size: cover; background-image: url("/becker-venture/d/krug_iz_sharikov.svg"); background-repeat: no-repeat; background-position: center center; background-attachment: scroll; width: auto; height: auto;}
+.circle_big {position: absolute; top: 0px; bottom: 0px; left: 0px; right: 0px; border-top-left-radius: 100%; border-top-right-radius: 100%; border-bottom-left-radius: 100%; border-bottom-right-radius: 100%; background-size: cover; background-image: url("../../../../../d/krug_iz_sharikov.svg"); background-repeat: no-repeat; background-position: center center; background-attachment: scroll; width: auto; height: auto;}
 .price_tag-text_back {display: flex; align-items: center; justify-content: space-between; flex-direction: row-reverse;}
 .price_call-text {column-gap: 2rem;}
 .logo-transform {width: 52.2rem; height: 52.2rem;}
