@@ -118,79 +118,6 @@ WebFont.load({
 <!-- Подключение библиотеки Lottie -->
 <script src="f/lottiemin.js"></script>
 
-<!-- Terminal Preloader -->
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-  var bootEl = document.getElementById('terminal-boot');
-  var flowEl = document.getElementById('terminal-flow');
-  var logoEl = document.getElementById('terminal-logo');
-  if (!bootEl) return;
-
-  var bootLines = [
-    { text: '> Initializing Becker Venture Protocol...', delay: 0 },
-    { text: '> Loading capital infrastructure        [OK]', delay: 400 },
-    { text: '> Connecting Web3 modules               [OK]', delay: 800 },
-    { text: '> Verifying compliance layer             [OK]', delay: 1200 },
-    { text: '> Establishing cross-border channels     [OK]', delay: 1600 },
-  ];
-
-  var keywords = [
-    'tokenization', 'RWA', 'stablecoin', 'cross-border', 'on-chain',
-    'liquidity', 'equity', 'global capital', 'M&A', 'IR strategy',
-    'Web3 infrastructure', 'investor expansion', 'narrative upgrade',
-    'execution capability', 'capital access', 'listing', 'venture studio',
-    'compliance structuring', 'token design', 'market positioning',
-    'decentralized finance', 'asset tokenization', 'secondary market',
-    'institutional grade', 'capital layer', 'blockchain', 'smart contract',
-  ];
-
-  // Phase 1: Boot sequence (0-2s)
-  bootLines.forEach(function(line) {
-    setTimeout(function() {
-      var div = document.createElement('div');
-      div.textContent = line.text;
-      div.style.opacity = '0';
-      div.style.transform = 'translateY(4px)';
-      div.style.transition = 'opacity 0.3s, transform 0.3s';
-      bootEl.appendChild(div);
-      requestAnimationFrame(function() {
-        div.style.opacity = '1';
-        div.style.transform = 'translateY(0)';
-      });
-    }, line.delay);
-  });
-
-  // Phase 2: Keyword flow (2-3.5s)
-  setTimeout(function() {
-    flowEl.style.transition = 'opacity 0.4s';
-    flowEl.style.opacity = '1';
-    var idx = 0;
-    var flowInterval = setInterval(function() {
-      var kw = keywords[idx % keywords.length];
-      var span = document.createElement('span');
-      span.textContent = kw + '  /  ';
-      span.style.opacity = String(0.3 + Math.random() * 0.5);
-      flowEl.appendChild(span);
-      flowEl.scrollTop = flowEl.scrollHeight;
-      idx++;
-      if (idx > 40) clearInterval(flowInterval);
-    }, 35);
-  }, 2000);
-
-  // Phase 3: Logo reveal (3.5-4.2s)
-  setTimeout(function() {
-    bootEl.style.transition = 'opacity 0.4s';
-    bootEl.style.opacity = '0';
-    flowEl.style.transition = 'opacity 0.4s';
-    flowEl.style.opacity = '0';
-  }, 3400);
-
-  setTimeout(function() {
-    logoEl.style.transition = 'opacity 0.6s ease';
-    logoEl.style.opacity = '1';
-  }, 3700);
-});
-</script>
 
 <!-- Анимация по scroll sphere -->
 <script>
@@ -600,19 +527,7 @@ document.addEventListener('DOMContentLoaded', function () {
   @media screen and (max-width:480px) { html { font-size: 2.56vw; } }
   
 </style></div><div class='div page-wrapper div--u-i4urpfka7' id='i4urpfka7_0'>
-<div class='div div--u-insehgp5h preloader' id='insehgp5h_0'>
-  <div style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;padding:2rem;">
-    <div id="terminal-loader" style="width:100%;max-width:680px;font-family:'JetBrains Mono',monospace;font-size:clamp(11px,1.4vw,15px);color:rgba(255,255,255,0.85);line-height:1.8;position:relative;">
-      <div id="terminal-boot" style="white-space:pre-wrap;"></div>
-      <div id="terminal-flow" style="margin-top:1.5rem;height:6em;overflow:hidden;opacity:0;mask-image:linear-gradient(to bottom,transparent 0%,white 20%,white 80%,transparent 100%);-webkit-mask-image:linear-gradient(to bottom,transparent 0%,white 20%,white 80%,transparent 100%);"></div>
-      <div id="terminal-logo" style="text-align:center;margin-top:2rem;opacity:0;font-size:clamp(18px,3vw,28px);font-weight:500;letter-spacing:0.3em;color:#fff;">BECKER VENTURE</div>
-    </div>
-  </div>
-</div>
 <div class='div div--u-ijve441r0' id='ijve441r0_0'>
-</div>
-<div class='div div--u-i2w3jghyj mask1' id='i2w3jghyj_0'>
-<div class='div div--u-i3tb67yuw' id='i3tb67yuw_0'></div>
 </div>
 <div class='div div--u-i2zj1f81q' id='i2zj1f81q_0'></div>
 <header class='div div--u-i233edbil' id='i233edbil_0'>
@@ -3902,34 +3817,6 @@ setTimeout(
 
 </script>
 
-<!-- скрыть макску -->
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    setTimeout(function () {
-      const mask = document.querySelector('.mask1');
-      if (mask) {
-        mask.style.display = 'none';
-      }
-    }, 5050); // 4500 мс = 4.5 секунды
-  });
-</script>
-
-<!-- Fallback: hide preloader after animation completes -->
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    setTimeout(function () {
-      const preloader = document.querySelector('.preloader');
-      if (preloader) {
-        preloader.style.transition = 'opacity 0.3s ease, transform 0.3s ease';
-        preloader.style.opacity = '0';
-        preloader.style.transform = 'translateY(-100%)';
-        setTimeout(function () {
-          preloader.style.display = 'none';
-        }, 400);
-      }
-    }, 4200);
-  });
-</script>
 
 
 
